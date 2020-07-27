@@ -1,5 +1,7 @@
 <template>
   <div>
+    <NuxtLink :to="{ path: '/' }">Home</NuxtLink>
+    <NuxtLink :to="{ name: 'products' }">Products</NuxtLink>
     <Nuxt />
   </div>
 </template>

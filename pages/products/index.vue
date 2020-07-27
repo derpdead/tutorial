@@ -1,17 +1,9 @@
-/*
-* Copyright © Bold Brand Commerce Sp. z o.o. All rights reserved.
-* See LICENSE for license details.
-*/
 <template>
-    $END$
+  <div>Products</div>
 </template>
 
 <script>
-  export default {
-    name: 'index'
-  }
+export default {
+  name: 'Index',
+}
 </script>
-
-<style scoped>
-
-</style>
